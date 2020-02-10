@@ -1,2 +1,2 @@
-# test
-I test new repo
+# I creat test repo
+I test new repo on GitHub
